@@ -1,0 +1,41 @@
+{
+  "questions": [
+    {
+      "id": 10000,
+      "que": "Jasurbek Choriyev tug'ilgan kuni qachon",
+      "ans1": "2002 - yil 23 aprel",
+      "ans2": "2000 - yil 23 aprelllllllllllllllllllllllllllllll",
+      "ans3": "2001 - yil 23 aprel",
+      "ans4": "1999 - yil 23 iyun",
+      "ans": "C",
+      "fanId": "1000",
+      "sinfId": "1000",
+      "fanName": ""
+    },
+    {
+      "que": "swswswjjklj",
+      "ans1": "",
+      "ans2": "",
+      "ans3": "",
+      "ans4": "",
+      "ans": "A",
+      "queId": "",
+      "fanId": 100,
+      "sinfId": 10,
+      "fanName": "",
+      "id": 10001
+    },
+    {
+      "que": "wj2w2wll2",
+      "ans1": "w2kwj2lkjwlk2",
+      "ans2": "w2w2",
+      "ans3": "2w2w",
+      "ans4": "w2w2",
+      "ans": "B",
+      "id": 10002,
+      "fanId": 100,
+      "sinfId": 10,
+      "fanName": ""
+    }
+  ]
+}

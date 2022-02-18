@@ -1,0 +1,17 @@
+.home-title {
+  font-size: 30px;
+  text-align: center;
+}
+.home {
+  padding: 20px;
+  border: 10px solid rgb(90, 90, 90);
+  border-radius: 5px;
+  height: 100vh;
+}
+.settings-select {
+  width: 80%;
+  margin: auto;
+}
+.text-field {
+  width: 100%;
+}

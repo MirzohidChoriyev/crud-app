@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "question": "O'zbekiston kimni nomida ?",
+      "choices": ["jsswbswbs", "skwhswwk", "y22tw2yw2", "swhswhqjqw"],
+      "answer": "jsswbswbs"
+    },
+    {
+      "question": "O'zbekiston tarixi nechanchi yil yaratilgan ?",
+      "choices": ["2001 yil", "2002 yil", "2003 yil", "2004 yil"],
+      "answer": "2001 yil"
+    },
+    {
+      "question": "O'zbekiston tarixi nechanchi yil yaratilgan ?",
+      "choices": ["2001 yil", "2002 yil", "2003 yil", "2004 yil"],
+      "answer": "2001 yil"
+    },
+    {
+      "question": "O'zbekiston tarixi nechanchi yil yaratgan ?",
+      "choices": ["20044 yil", "20033 yil", "20033 yil", "200434 yil"],
+      "answer": "20044 yil"
+    },
+    {
+      "question": "O'zbekiston tarixi nechanchi yil yaratgan ?",
+      "choices": ["20044 yil", "20033 yil", "20033 yil", "200434 yil"],
+      "answer": "20044 yil"
+    }
+  ]
+}

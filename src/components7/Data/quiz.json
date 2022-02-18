@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "question": "O'zbekiston poytaxtini belgilang",
+      "choices": ["Toshkent", "Buxoro", "Braziliya", "Yaponiya"],
+      "answer": "Toshkent"
+    },
+    {
+      "question": "Angliya poytaxtini belgilang",
+      "choices": ["Toshkent", "London", "Braziliya", "Yaponiya"],
+      "answer": "London"
+    },
+    {
+      "question": "Yaponiya poytaxtini belgilang",
+      "choices": ["Toshkent", "Buxoro", "Tokio", "Misr"],
+      "answer": "Tokio"
+    },
+    {
+      "question": "Fransiya poytaxtini belgilang",
+      "choices": ["Toshkent", "Paris", "Braziliya", "Yaponiya"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Rossiya poytaxtini belgilang",
+      "choices": ["Toshkent", "Moskva", "Braziliya", "Yaponiya"],
+      "answer": "Moskva"
+    }
+  ]
+}
